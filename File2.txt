@@ -1,2 +1,2 @@
-The second file added.
+The second file has been added.
 Testing the second file.
